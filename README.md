@@ -42,6 +42,11 @@ npm test
 
 ## Diagramas
 
+### Java-Hotel-master
+
+* Diagrama de clases con principales métodos y atributos
+![image](https://user-images.githubusercontent.com/11589590/224932130-5827be45-7778-42ea-a027-4c66b04281db.png)
+
 ## Origen de los proyectos
 
 ### Java-Hotel-master
