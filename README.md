@@ -10,52 +10,43 @@ Temas principales: testing y documentación.
 ### Java-Hotel-master
 
 * Descripción: Aplicación para reservas de un hotel con registro de clientes y habitaciones
+
 * Tech stack: Java + JUnit(testing)
 
 ### Travel_Plan
 
 * Descripción: El proyecto travel plan contiene tres cripts independientes script.js utiliza la librería VIS.js para visualizar un grafo, Graph.js crea una lista de ayacencias a partir de el número de vertices y sus aristas y por último Dijkstra.js que ejecuta el algoritmo de Dijkstra para obtener el coste de los caminos desde un nodo fuente
+
 * Tech stack: Javascript + Jest(testing)
 
-### Executing program
+## Testing
 
-* How to run the program
-* Step-by-step bullets
+### Java-Hotel-master
+
+* 1. Instalar el extension pack for Java en vscode https://code.visualstudio.com/docs/languages/java
+* 2. Ir al tab de testing en vscode y presionar el botón de play el cual correrá todos los tests definidos.
+
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/11589590/224907395-fd2585e6-f71f-40a7-98ae-e96f6d1834cf.png">
+
+### Travel_Plan
+
+* 1. Instalar Jest
 ```
-code blocks for commands
+npm install
+```
+* 2. Correr el siguiente comando en la terminal para ejecutar todos los tests definidos.
+```
+npm test  
 ```
 
-## Help
+## Diagramas
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+## Origen de los proyectos
 
-## Authors
+### Java-Hotel-master
 
-Contributors names and contact info
+* https://github.com/joseFranciscoHS/Java-Hotel
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+### Travel_Plan
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* https://github.com/joseFranciscoHS/Data-Structures-in-Real-Life-Projects/tree/main/7.%20Travel%20Plan(Graph)
