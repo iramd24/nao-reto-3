@@ -23,21 +23,22 @@ Temas principales: testing y documentación.
 
 ### Java-Hotel-master
 
-* 1. Instalar el extension pack for Java en vscode https://code.visualstudio.com/docs/languages/java
-* 2. Ir al tab de testing en vscode y presionar el botón de play el cual correrá todos los tests definidos.
+1. Instalar el extension pack for Java en vscode https://code.visualstudio.com/docs/languages/java
+2. Ir al tab de testing en vscode y presionar el botón de play el cual correrá todos los tests definidos.
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/11589590/224907395-fd2585e6-f71f-40a7-98ae-e96f6d1834cf.png">
 
 ### Travel_Plan
 
-* 1. Instalar Jest
+1. Instalar Jest
 ```
 npm install
 ```
-* 2. Correr el siguiente comando en la terminal para ejecutar todos los tests definidos.
+2. Correr el siguiente comando en la terminal para ejecutar todos los tests definidos.
 ```
 npm test  
 ```
+<img width="446" alt="Screenshot 2023-03-13 at 23 52 09" src="https://user-images.githubusercontent.com/11589590/224909012-2ca23a69-5580-4102-a002-58ef01b37eb0.png">
 
 ## Diagramas
 
